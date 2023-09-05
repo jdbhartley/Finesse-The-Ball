@@ -15,7 +15,7 @@ Finesse The Ball is an exciting and challenging browser-based game developed wit
 
 You can play "Finesse The Ball" directly in your web browser by following this link: [Play Finesse The Ball](https://jameshartley.itch.io/finesse)
 
-![Finesse The Ball Gameplay](screenshot1.jpg)
+[![Finesse The Ball Gameplay](screenshot1.jpg)](https://www.youtube.com/watch?v=YXNKq-eQy8A)
 
 Click the image above to watch a gameplay preview.
 
